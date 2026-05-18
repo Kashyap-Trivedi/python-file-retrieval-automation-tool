@@ -70,6 +70,26 @@ Automated Report Generation
 - Desktop Application Development
 
 ---
+## Project Screenshots
+
+### Project Structure
+![Project Structure](screenshots/folder-structure.png)
+
+### Application Home Screen
+![Application Home Screen](screenshots/main-screen.png)
+
+### Workflow Configuration
+![Workflow Configuration](screenshots/workflow-screen.png)
+
+### Execution Completion
+![Execution Completion](screenshots/completion-screen.png)
+
+### Automated Report Output
+![Automated Report Output](screenshots/report-output.png)
+
+
+
+
 
 ## Portfolio Note
 This repository is a public showcase version created for professional portfolio purposes.
